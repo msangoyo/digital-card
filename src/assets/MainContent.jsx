@@ -5,7 +5,7 @@ function MainContent() {
         <main className="wrapper">
             <div className="container">
                 <div className="pic-container">
-                    <img src="../../public/img1.jpg" className="profpic"></img>
+                    <img src="img1.jpg" className="profpic"></img>
                 </div>
                 <div className="main-content">
                 
